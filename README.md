@@ -10,7 +10,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/bparvin12/qr-code-component)
+- Preview URL: [Preview URL Deployed with Vercel](https://qr-code-component-sage-six.vercel.app/)
 
 ## My process
 
