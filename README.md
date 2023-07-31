@@ -1,27 +1,28 @@
-# reactstrap Example
+# Frontend Mentor - QR code component solution
 
-This example shows how to use Next.js with [reactstrap](https://reactstrap.github.io/).
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Deploy your own
+## Overview
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-reactstrap)
+### Screenshot
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-reactstrap&project-name=with-reactstrap&repository-name=with-reactstrap)
+![Preview](image.png)
 
-## How to use
+### Links
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+- Solution URL: [Add solution URL here](https://github.com/bparvin12/qr-code-component)
 
-```bash
-npx create-next-app --example with-reactstrap with-reactstrap-app
-```
+## My process
 
-```bash
-yarn create next-app --example with-reactstrap with-reactstrap-app
-```
+### Built with
 
-```bash
-pnpm create next-app --example with-reactstrap with-reactstrap-app
-```
+- Semantic HTML5 markup
+- CSS custom properties / Reactstrap
+- CSS Grid
+- NextJS - Pages Directory
+- React
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/) - React framework
+- [Styled Components](https://styled-components.com/) - For styles
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
