@@ -1,0 +1,45 @@
+/* ensure all pages have Bootstrap CSS */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+/* Global Styles */
+
+@font-face {
+  font-family: 'Outfit';
+  src: url(/fonts/outfit.woff2) format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Outfit';
+  line-height: 1.6;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+/* Add a default box-sizing to all elements */
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+
+/* Add any other global styles you may need for your project */
+:root {
+  --white: hsl(0, 0%, 100%);
+  --light-gray: hsl(212, 45%, 89%);
+  --grayish-blue: hsl(220, 15%, 55%);
+  --dark-blue: hsl(218, 44%, 22%);
+}
+
+.general-layout {
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  background-color: var(--light-gray);
+}
+
+
